@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Py_clase_menus_15_04_2015</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inicio">Inicio</string>
+    <string name="opcion1">Opcion1</string>
+    <string name="opcion2">Opcion2</string>
+</resources>
