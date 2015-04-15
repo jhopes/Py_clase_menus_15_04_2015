@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">Py_clase_menus_15_04_2015</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="opc1">Activity opcion01</string>
+    <string name="opc2">Activity opcion02</string>
     <string name="action_settings">Settings</string>
     <string name="inicio">Inicio</string>
     <string name="opcion1">Opcion1</string>
     <string name="opcion2">Opcion2</string>
+    <string name="title_activity_opcion1">Opcion1Activity</string>
+    <string name="title_activity_opcion2">Opcion2Activity</string>
 </resources>
